@@ -33,8 +33,4 @@ route(app);
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
 });
-<<<<<<< HEAD
-console.log("conflict gio no khac nhau ne");
-=======
-console.log("conflict Chang file for conflict");
->>>>>>> a54a1158d22c18ebb3497db4c419ccc35347ba3f
+
